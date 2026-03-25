@@ -192,5 +192,5 @@ It is suitable for:
 - emergency response tools  
 - IoT safety prototypes
 
-<img src="images/pic1" height="200"/>
-<img src="images/pic2.jpg" height="200"/>
+<img src="images/pic1.jpg" height="200"/>
+<img src="images/pic2.png" height="200"/>
